@@ -24,7 +24,6 @@ void loop() {
   // Red light ON
   digitalWrite(green, LOW);
   digitalWrite(yellow, LOW); 
-}
   digitalWrite(red, HIGH);
   delay(3000);
 }
