@@ -1,14 +1,18 @@
-# Arduino Learning
+# Arduino Learning Project
 
-My Arduino learning projects, code samples, and experiments
+This repository contains my beginner Arduino projects as I learn electronics and programming.
 
-Welcome to my Arduino learning repository.
+## Projects Included
+- Blink LED (first basic program)
 
-This repository contains:
-- Arduino practice projects
-- Circuit simulations
-- OLED display projects
-- Networking and embedded systems experiments
+## Purpose
+To practice Arduino programming, understand circuits, and improve my coding skills step by step.
+
+## Tools Used
+- Arduino IDE
+- SimullDE (for simulation)
+- Tinkercad (for simulation)
+- GitHub (for version control)
 
 ## Author
 MUSEDDE Abdul Farouk
